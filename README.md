@@ -12,12 +12,12 @@
 - PICAM
 
 ## Function Tasks
-###Austin:
+### Austin:
 - Main loop
 - ML8511
-###Chris:
+### Chris:
 - MPU9250
-###Matthew:
+### Matthew:
 - BME280
 
 ### Not delegated:
