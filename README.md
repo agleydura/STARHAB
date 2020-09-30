@@ -14,10 +14,10 @@
 ## Function Tasks
 <b>Austin:</b>
 - Main loop
-- ML8511
-<b>Chris:</b><br>
-- MPU9250
-<b>Matthew:</b><br>
+- ML8511<br>
+<b>Chris:</b>
+- MPU9250<br>
+<b>Matthew:</b>
 - BME280
 
 ### Not delegated:
