@@ -15,9 +15,9 @@
 <b>Austin:</b>
 - Main loop
 - ML8511
-<b>Chris:</b>
+<b>Chris:</b><br>
 - MPU9250
-<b>Matthew:</b>
+<b>Matthew:</b><br>
 - BME280
 
 ### Not delegated:
